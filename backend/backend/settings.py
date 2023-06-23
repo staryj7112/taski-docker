@@ -11,7 +11,7 @@ SECRET_KEY = os.getenv('SECRET_KEY', '')
 
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['158.160.68.189', 'staryj.webhop.me', '127.0.0.1', 'localhost']
 
 
 # Application definition
